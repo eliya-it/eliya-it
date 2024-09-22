@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ELiya</h1>
+<h1 align="center">Hi 👋, I'm Eliya</h1>
 <h4 align="center">I’m a passionate MERN Stack Developer with a focus on Web Security and creating secure web apps.</h4>
 
 - 🔭 I’m currently working on [My Brand](https://eliyait.com/)
