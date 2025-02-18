@@ -50,27 +50,7 @@
 
 ---
 
-## 🛠 **Recent Projects:**
 
-### **📌 Taskly (Microservices Architecture)**
-
-- Built with **Node.js, TypeScript, PostgreSQL, Docker, and Kubernetes**.
-- Integrated **AWS SQS/SNS with DLQ** for event-driven communication.
-- Deployed on **AWS ECS with Kubernetes orchestration**.
-- Implemented security best practices, including authentication and request validation.
-
-  🔗 [**GitHub**](https://github.com/eliya-it/taskly) | [**Live Demo**](https://taskly.eliyait.com/)
-
-### **🏨 Starlo (Hotel Booking System)**
-
-- Built with **Node.js, TypeScript, Express.js, and MongoDB**.
-- Designed with **secure authentication**, including JWT, OAuth, and two-factor authentication.
-- Implemented **advanced search, filtering, and booking management** for a seamless user experience.
-- Developed an **admin dashboard** for managing users, rooms, and bookings.
-
-  🔗 [**GitHub**](https://github.com/eliya-it/starlo) | [**Live Demo:**](https://starlo.eliyait.com/)
-
----
 
 ## 🎯 **Problem-Solving Mindset**
 
