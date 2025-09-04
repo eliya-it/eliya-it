@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Eliya</h1>
-<h4 align="center">Backend Engineer specializing in Microservices, Cloud-Native Development, and Secure Web Systems</h4>
+<h4 align="center">Backend Engineer | .NET & Node.js | Fintech & Secure Systems (PCI-DSS, Cloud, Microservices)</h4>
 
 ---
 
-- 🔭 Currently refining **my personal brand** and improving **English**
-- 🌱 Focused on **Cloud Deployments**, **Microservices**, and **Web Security**
-- 👨‍💻 Explore my work: [Portfolio](https://eliyait.com/)
+- 🔭 Currently building **fintech-grade backend systems** (PCI-DSS v4.0 & CBUAE SRR 4.2 compliance)  
+- 🌱 Leveling up **cloud deployments, microservices**, and **performance engineering**  
+- 👨‍💻 Explore my work: [Portfolio](https://eliyait.com/) | [GitHub](https://github.com/eliya)  
 - 📫 Reach me at: **contact@eliyait.com**
 
 ---
 
-## Technical Skills
+## ⚙️ Technical Skills
 
 ### **Backend Development**
 <p align="left">   
@@ -24,8 +24,7 @@
 <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-###  **Microservices & Cloud**
-
+### **Microservices & Cloud**
 <p align="left">
   <img src="https://img.shields.io/badge/Microservices-FF5733?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NATS-000000?style=for-the-badge" />
@@ -36,7 +35,6 @@
 </p>
 
 ### 🔧 **DevOps & Containerization**
-
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -44,26 +42,33 @@
 </p>
 
 ---
-## Compliance & Security Standards
 
-- PCI-DSS: Developed and documented a backend project fully aligned with PCI-DSS v4.0. Includes secure authentication, audit logging, tokenization, and vulnerability scan reports.
+## 🛡 Compliance & Security Standards
 
-- UAE Central Bank Compliance: Applied local security standards (CBUAE EN 1580 VER1) for fintech backend infrastructure.
-
----
-## Web Security & Performance Optimization
-
-- Familiar with OWASP Top 10: Preventing **XSS, SQL Injection, CSRF, SSRF**, etc.
-- Secure API Design: Using **JWT**, **OAuth**, **RBAC**, **rate limiting**, and **input validation**
-- Database Optimization: Caching, indexing, query tuning, and strict access controls
+- **PCI-DSS v4.0:** Built a secure payments backend with **AES-256 encryption, tokenization, MFA, and audit logging**, validated with **Snyk & OWASP ZAP scans**  
+- **UAE Central Bank SRR 4.2:** Applied fintech compliance standards (CBUAE EN 1580) for backend infrastructure readiness  
+- **OWASP Top 10:** Hands-on prevention of **XSS, SQL Injection, CSRF, SSRF**, and other common exploits  
 
 ---
 
-## Problem-Solving Mindset
+## 🚀 Key Projects
 
-> I believe in breaking down complex problems into modular, scalable, and secure systems.  
-> My backend philosophy is grounded in **event-driven**, **cloud-native**, and **security-first** principles.
+- **Secure Payments Gateway (Node.js/TypeScript, AWS)**  
+  PCI-DSS & UAE SRR 4.2 compliant backend with tokenization, MFA, audit logging, Dockerized deployment, and 99.9% uptime. Reduced latency from >1s → 280ms (p95).  
+
+- **DotShop API (ASP.NET Core, SQL Server)**  
+  Clean e-commerce backend built with Service Layer Pattern, JWT auth, RBAC, product/order/checkout modules. Designed for maintainability and future **microservices transition**.  
+
+- **Starlo (Node.js, MongoDB, Express, JWT)**  
+  Scalable hotel booking API with room management, reviews, and admin dashboards. Focused on **real-world scalability, security, and performance**.  
 
 ---
 
-**Want to build something real and production-grade? Let's connect.**
+## 🧠 Problem-Solving Mindset
+
+I turn complex backend challenges into **modular, secure, and scalable systems**.  
+My engineering philosophy:  
+
+- **Event-driven** → Zero downtime at scale  
+- **Cloud-native** → Resilient, fault-tolerant deployments  
+- **Security-first** → Compliance and threat mitigation baked in from day one 
